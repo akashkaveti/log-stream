@@ -1,0 +1,3 @@
+#!/bin/bash
+docker build -t akashkaveti/log-stream
+docker push akashkaveti/log-stream
