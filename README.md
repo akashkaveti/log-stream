@@ -13,3 +13,8 @@ docker run -v </path/to/file>:</path/to/file/in/container> -p <port>:3000 -e FIL
 ## Access the server
 
 `http://<HOST_IP>:<PORT>`
+
+## Improvments
+* Supporting scalability
+* Able to support multiple log files
+* Handling big files
